@@ -100,6 +100,14 @@
           "description": "一个功能强大、界面精美的订阅管理与转换工具",
           "icon": "/assets/img_1768054742498.png",
           "enabled": true
+        },
+        {
+          "id": "1769718218407",
+          "title": "订阅链接转换工具",
+          "href": "https://sublink.778652.xyz",
+          "description": "轻松转换和优化您的订阅链接",
+          "icon": "/assets/favicon_1769718235433.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
