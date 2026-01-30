@@ -894,7 +894,7 @@
           "title": "💻 我的电脑",
           "icon": "Book",
           "description": "",
-          "enabled": true,
+          "enabled": false,
           "items": []
         }
       ],
