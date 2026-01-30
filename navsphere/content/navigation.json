@@ -979,6 +979,31 @@
       "items": [],
       "subCategories": [
         {
+          "id": "2c28a875-c6c3-47a2-92d3-5ac0a2e5e72f",
+          "title": "上网节点",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1769546108346",
+              "title": "订阅中心",
+              "href": "https://ech2026.pages.dev/1d5a494e-17c3-423d-8b03-18d317e60016",
+              "description": "多客户端支持 • 智能优选 • 一键生成",
+              "icon": "/assets/img_1769546166265.png",
+              "enabled": true
+            },
+            {
+              "id": "1769546224251",
+              "title": "订阅中心",
+              "href": "https://aai.xsaai.top/9177b22a-206c-4e10-8681-0f3b97c94e64",
+              "description": "多客户端支持 • 智能优选 • 一键生成",
+              "icon": "/assets/img_1769546166265.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "390385c2-44e3-4433-a646-04c236a7c22a",
           "title": "上网技巧",
           "icon": "Book",
@@ -1047,31 +1072,6 @@
               "href": "https://apps.apple.com/us/app/shadowrocket/id932747118",
               "description": "Shadowrocket（小火箭）是一款非常知名的 iOS 代理工具，由 Shadow Launch Technology Limited 开发，在 App Store 上售价通常为 $2.99（一次性购买）。",
               "icon": "https://xiaohuojian.uk/logo.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2c28a875-c6c3-47a2-92d3-5ac0a2e5e72f",
-          "title": "上网节点",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1769546108346",
-              "title": "订阅中心",
-              "href": "https://ech2026.pages.dev/1d5a494e-17c3-423d-8b03-18d317e60016",
-              "description": "多客户端支持 • 智能优选 • 一键生成",
-              "icon": "/assets/img_1769546166265.png",
-              "enabled": true
-            },
-            {
-              "id": "1769546224251",
-              "title": "订阅中心",
-              "href": "https://aai.xsaai.top/9177b22a-206c-4e10-8681-0f3b97c94e64",
-              "description": "多客户端支持 • 智能优选 • 一键生成",
-              "icon": "/assets/img_1769546166265.png",
               "enabled": true
             }
           ]
