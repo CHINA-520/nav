@@ -895,16 +895,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1769766922141",
-              "title": "下载神器NDM",
-              "href": "https://www.neatdownloadmanager.com/index.php/en/",
-              "description": "一款免费小巧的网络资源下载器。说白了就是和迅雷、IDM（Internet Download Manager）类似。和 IDM 相比，NDM 占用空间非常小（安装空间就 2M 左右），并且支持 Windows 和 MacOS 操作系统。它可以对单个文件进行多线程下载（将单个文件切割成多份下载，大幅加快下载速度）。",
-              "icon": "/assets/favicon_1769767019604.ico",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ],
       "description": "",
@@ -983,6 +974,14 @@
               "href": "https://fetchv.net/zh-cn",
               "description": "FetchV 是一款免费的网页视频下载扩展，支持 Chrome、Edge、Firefox 和其他浏览器，并支持大多数在线视频网站。",
               "icon": "/assets/favicon_1769767286891.png",
+              "enabled": true
+            },
+            {
+              "id": "1769766922141",
+              "title": "下载神器NDM",
+              "href": "https://www.neatdownloadmanager.com/index.php/en/",
+              "description": "一款免费小巧的网络资源下载器。说白了就是和迅雷、IDM（Internet Download Manager）类似。和 IDM 相比，NDM 占用空间非常小（安装空间就 2M 左右），并且支持 Windows 和 MacOS 操作系统。它可以对单个文件进行多线程下载（将单个文件切割成多份下载，大幅加快下载速度）。",
+              "icon": "/assets/favicon_1769767019604.ico",
               "enabled": true
             }
           ]
