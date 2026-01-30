@@ -979,6 +979,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "390385c2-44e3-4433-a646-04c236a7c22a",
+          "title": "上网技巧",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "2c28a875-c6c3-47a2-92d3-5ac0a2e5e72f",
           "title": "上网节点",
           "icon": "Book",
@@ -1002,14 +1010,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "390385c2-44e3-4433-a646-04c236a7c22a",
-          "title": "上网技巧",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": []
         },
         {
           "id": "4d9442a6-a33d-4079-a317-80605c9bb386",
