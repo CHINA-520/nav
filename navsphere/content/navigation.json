@@ -551,6 +551,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "14989613-479b-4b24-9d2a-217ff9259157",
+          "title": "💻 我的电脑",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "3",
           "title": "🔐  云盘存储",
           "href": "#在线工具",
@@ -888,14 +896,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "14989613-479b-4b24-9d2a-217ff9259157",
-          "title": "💻 我的电脑",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
