@@ -873,6 +873,14 @@
           "enabled": true
         },
         {
+          "id": "14989613-479b-4b24-9d2a-217ff9259157",
+          "title": "💻 我的电脑",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "74edf4b2-32ca-4314-af5a-5eefff0c8578",
           "title": "🚀  电报群组",
           "icon": "Bell",
@@ -888,14 +896,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "14989613-479b-4b24-9d2a-217ff9259157",
-          "title": "💻 我的电脑",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
