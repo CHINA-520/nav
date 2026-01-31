@@ -585,23 +585,6 @@
           "enabled": true
         },
         {
-          "id": "74edf4b2-32ca-4314-af5a-5eefff0c8578",
-          "title": "🚀  电报群组",
-          "icon": "Bell",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1768450317814",
-              "title": "汉化中文",
-              "href": "https://t.me/setlanguage/classic-zh-cn",
-              "description": "点击此链接会将您的 Telegram 应用界面切换到另一种语言（简体·中文）。您随时可以在“设置”中将语言改回原来的语言。",
-              "icon": "/assets/favicon_1768450322966.svg",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "4",
           "title": "✏️   文本工具",
           "href": "#图形创意",
@@ -888,6 +871,23 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "74edf4b2-32ca-4314-af5a-5eefff0c8578",
+          "title": "🚀  电报群组",
+          "icon": "Bell",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1768450317814",
+              "title": "汉化中文",
+              "href": "https://t.me/setlanguage/classic-zh-cn",
+              "description": "点击此链接会将您的 Telegram 应用界面切换到另一种语言（简体·中文）。您随时可以在“设置”中将语言改回原来的语言。",
+              "icon": "/assets/favicon_1768450322966.svg",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "14989613-479b-4b24-9d2a-217ff9259157",
