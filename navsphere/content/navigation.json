@@ -999,6 +999,14 @@
               "description": "圣达菲学院(^-^)教育邮箱",
               "icon": "/assets/favicon_1769886925529.png",
               "enabled": true
+            },
+            {
+              "id": "1770069670447",
+              "title": "微信视频下载",
+              "href": "https://www.15um.com/tools/weixin_v.php",
+              "description": "",
+              "icon": "/assets/favicon_1770069688662.png",
+              "enabled": true
             }
           ]
         },
