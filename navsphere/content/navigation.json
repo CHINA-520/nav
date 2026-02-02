@@ -1113,6 +1113,14 @@
               "description": "多客户端支持 • 智能优选 • 一键生成",
               "icon": "/assets/img_1769546166265.png",
               "enabled": true
+            },
+            {
+              "id": "site_1770074360991_e7y10usiu",
+              "title": "视频聚合平台",
+              "href": "https://kvideo-6ym.pages.dev",
+              "description": "视频聚合平台",
+              "icon": "/assets/favicon_1770074336935.png",
+              "enabled": true
             }
           ]
         }
