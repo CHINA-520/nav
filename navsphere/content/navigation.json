@@ -1121,6 +1121,14 @@
               "description": "视频聚合平台",
               "icon": "/assets/favicon_1770074336935.png",
               "enabled": true
+            },
+            {
+              "id": "site_1770074410995_c1da544yd",
+              "title": "视频聚合平台",
+              "href": "https://kvideo-6ym.pages.dev/premium",
+              "description": "视频聚合平台",
+              "icon": "/assets/favicon_1770074391800.png",
+              "enabled": true
             }
           ]
         }
