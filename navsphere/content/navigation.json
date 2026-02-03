@@ -826,6 +826,14 @@
               "description": "快速轻松地去除 NotebookLM 生成内容中的水印。几秒钟内即可获得干净、专业的效果。",
               "icon": "/assets/favicon_1768657153504.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1770129357949_q1txe1hdi",
+              "title": " 极其简洁的博客平台",
+              "href": "https://notepin.co",
+              "description": "无需注册即可轻松记笔记和撰写博客。只需几秒钟即可创建您自己的在线笔记本。",
+              "icon": "/assets/favicon_1770129272260.png",
+              "enabled": true
             }
           ],
           "enabled": true
