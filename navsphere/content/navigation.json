@@ -108,6 +108,14 @@
           "description": "轻松转换和优化您的订阅链接。",
           "icon": "/assets/favicon_1769718235433.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1770228426404_bkl2nf46o",
+          "title": "网址导航",
+          "href": "https://nav.meiyue365.workers.dev",
+          "description": "每天花时间逐一点击检查、更新状态、剔除失效或变质的链接，宁可少而精，也不愿滥竽充数。",
+          "icon": "https://favicon.is/nav.778652.xyz",
+          "enabled": true
         }
       ],
       "subCategories": [],
