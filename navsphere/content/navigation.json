@@ -834,6 +834,14 @@
               "description": "无需注册即可轻松记笔记和撰写博客。只需几秒钟即可创建您自己的在线笔记本。",
               "icon": "/assets/favicon_1770129272260.png",
               "enabled": true
+            },
+            {
+              "id": "site_1770172314237_mjq4kyvqm",
+              "title": "网站图标",
+              "href": "https://favicon.is",
+              "description": "只需在网址后添加任意域名即可：https://favicon.is/hi.com\n如需更大尺寸，请添加更大的参数：https://favicon.is/hi.com?larger=true",
+              "icon": "/assets/favicon_1770172235456.png",
+              "enabled": true
             }
           ],
           "enabled": true
