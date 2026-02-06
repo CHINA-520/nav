@@ -116,6 +116,14 @@
           "description": "每天花时间逐一点击检查、更新状态、剔除失效或变质的链接，宁可少而精，也不愿滥竽充数。",
           "icon": "https://favicon.is/nav.778652.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1770406399739_ur5rfa2x0",
+          "title": "云航 CloudNav",
+          "href": "https://cloudnav-6wk.pages.dev/",
+          "description": "",
+          "icon": "/assets/favicon_1770406368863.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
