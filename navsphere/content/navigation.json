@@ -124,6 +124,14 @@
           "description": "一个 安全、轻量、可定制的导航页，非常适合个人或小团队使用，既能保证数据安全，又能提升日常工作与学习的效率。",
           "icon": "/assets/favicon_1770406368863.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1770433246836_ycbffn28u",
+          "title": "笔记应用",
+          "href": "https://notes.meiyue365.workers.dev",
+          "description": "一个部署于Cloudflare Workers + KV搭建的极简记事本应用",
+          "icon": "https://favicon.is/text.is",
+          "enabled": true
         }
       ],
       "subCategories": [],
