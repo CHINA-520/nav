@@ -684,7 +684,7 @@
               "title": "局域网 传输",
               "href": "https://localsend.org",
               "description": "LocalSend 是一款免费、开源、跨平台的文件共享工具，可让您将文件共享到附近的设备。",
-              "icon": "/assets/favicon_1770951832608.ico",
+              "icon": "https://www.faviconextractor.com/favicon/localsend.org?larger=true",
               "enabled": true
             }
           ],
