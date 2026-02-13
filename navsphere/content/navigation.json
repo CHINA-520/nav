@@ -604,6 +604,14 @@
               "description": "Google 云端硬盘（Google Drive） 是谷歌公司推出的一款云存储服务，允许用户存储、管理和共享文件和数据。它为用户提供了一个安全、便捷的在线存储空间，用户可以通过电脑、手机或平板等多种设备访问和管理自己的文件。",
               "icon": "/assets/img_1768094834852.png",
               "enabled": true
+            },
+            {
+              "id": "site_1770975898520_677nv1idu",
+              "title": "MEGA",
+              "href": "https://mega.nz/login",
+              "description": "MEGA是一家总部位于新西兰的云存储服务平台，成立于2013年。它最大的特色是隐私保护和安全性，采用端到端加密（零知识加密），确保只有用户本人才能访问自己的数据。",
+              "icon": "/assets/favicon_1770975835621.ico",
+              "enabled": true
             }
           ],
           "enabled": true
