@@ -670,6 +670,14 @@
               "description": "Wormhole 让你能以端到端加密和自动过期链接的方式分享文件。",
               "icon": "/assets/favicon_1769012108822.png",
               "enabled": true
+            },
+            {
+              "id": "site_1770951870144_yd3hmkv4v",
+              "title": "局域网 传输",
+              "href": "https://localsend.org",
+              "description": "LocalSend 是一款免费、开源、跨平台的文件共享工具，可让您将文件共享到附近的设备。",
+              "icon": "/assets/favicon_1770951832608.ico",
+              "enabled": true
             }
           ],
           "enabled": true
